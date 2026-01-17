@@ -7,6 +7,13 @@ Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## 2.5.0 - 2026-01-18
+
+### Added
+
+- Published protobuf definitions from:
+  `tag: v26.0.0   commit: "3b8ac3419b577abb7097b553e1abec3de603d6a3"`
+
 ## 2.4.0 - 2023-12-20
 
 ### Added
